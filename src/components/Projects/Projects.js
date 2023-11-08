@@ -20,7 +20,7 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
+              title="Ujwal Vyavasay"
               description="The main of the project is to remove the middlemen between the farmers and consumers by providing a virtual platform"
               ghLink="https://github.com/PrabhasDasari/UjwalVyavasay"
               // demoLink="https://chatify-49.web.app/"
